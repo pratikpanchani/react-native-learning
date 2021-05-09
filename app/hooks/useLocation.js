@@ -24,4 +24,4 @@ const useLocation = () => {
   return location;
 };
 
-export default useLocation;
+export default useLocation
